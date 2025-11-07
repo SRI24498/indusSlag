@@ -1,0 +1,105 @@
+﻿{
+  "InstalledPluginNames": [
+    "Obsolete field, using only for compatibility"
+  ],
+  "InstalledPlugins": [
+    {
+      "SystemName": "Payments.PayPalCommerce",
+      "Version": "4.90.20"
+    },
+    {
+      "SystemName": "DiscountRequirement.MustBeAssignedToCustomerRole",
+      "Version": "4.90.2"
+    },
+    {
+      "SystemName": "CurrencyExchange.ECB",
+      "Version": "4.90.1"
+    },
+    {
+      "SystemName": "Misc.Brevo",
+      "Version": "4.90.8"
+    },
+    {
+      "SystemName": "Misc.Dynamics365",
+      "Version": "4.90.01"
+    },
+    {
+      "SystemName": "Misc.NopMobileApp",
+      "Version": "4.90.1"
+    },
+    {
+      "SystemName": "Misc.OmnibusDirective",
+      "Version": "4.90.1"
+    },
+    {
+      "SystemName": "Misc.Omnisend",
+      "Version": "4.90.6"
+    },
+    {
+      "SystemName": "Misc.PowerBI",
+      "Version": "4.90.1"
+    },
+    {
+      "SystemName": "Misc.RFQ",
+      "Version": "4.90.9"
+    },
+    {
+      "SystemName": "Misc.WebApi.Frontend",
+      "Version": "4.90.1"
+    },
+    {
+      "SystemName": "Misc.Zettle",
+      "Version": "4.90.5"
+    },
+    {
+      "SystemName": "Payments.CheckMoneyOrder",
+      "Version": "4.90.1"
+    },
+    {
+      "SystemName": "Payments.Manual",
+      "Version": "4.90.1"
+    },
+    {
+      "SystemName": "Pickup.PickupInStore",
+      "Version": "4.90.2"
+    },
+    {
+      "SystemName": "Search.Lucene",
+      "Version": "4.90.1"
+    },
+    {
+      "SystemName": "Shipping.FixedByWeightByTotal",
+      "Version": "4.90.4"
+    },
+    {
+      "SystemName": "Tax.FixedOrByCountryStateZip",
+      "Version": "4.90.4"
+    },
+    {
+      "SystemName": "Widgets.GoogleAnalytics",
+      "Version": "4.90.2"
+    },
+    {
+      "SystemName": "Widgets.Swiper",
+      "Version": "4.90.3"
+    },
+    {
+      "SystemName": "Misc.ExcelProductImporter",
+      "Version": "1.00"
+    },
+    {
+      "SystemName": "Misc.SemanticSearch",
+      "Version": "1.00"
+    }
+  ],
+  "PluginNamesToUninstall": [],
+  "PluginNamesToDelete": [
+    "ExternalAuth.Facebook",
+    "MultiFactorAuth.GoogleAuthenticator",
+    "Shipping.UPS",
+    "Tax.Avalara",
+    "Widgets.AccessiBe",
+    "Widgets.FacebookPixel"
+  ],
+  "PluginNamesToInstall": []
+}

@@ -1,0 +1,12 @@
+﻿
+{
+  "Group": "Misc",
+  "FriendlyName": "Excel Product Importer",
+  "SystemName": "Misc.ExcelProductImporter",
+  "Version": "1.00",
+  "SupportedVersions": ["4.90"],
+  "Author": "SRI",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.ExcelProductImporter.dll",
+  "Description": "Import products from an Excel workbook"
+}

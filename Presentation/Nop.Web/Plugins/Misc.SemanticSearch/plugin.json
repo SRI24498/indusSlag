@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "Semantic Search",
+  "SystemName": "Misc.SemanticSearch",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.90" ],
+  "Author": "Your Name",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.SemanticSearch.dll",
+  "Description": "Semantic Search"
+}

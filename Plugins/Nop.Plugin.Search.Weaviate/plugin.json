@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Search provider",
+  "FriendlyName": "Weaviate AI Search",
+  "SystemName": "Search.Weaviate",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.90" ],
+  "Author": "SRI",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Search.Weaviate.dll",
+  "Description": "Semantic product search with Weaviate + OpenAI"
+}
